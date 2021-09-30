@@ -19,15 +19,16 @@
    <img src="https://visitor-badge-reloaded.herokuapp.com/badge?page_id=edelapaz&color=00df00" />
  </a>
 </p>
-> Diseñador Web - Conocimiento en HTML5, CSS3, JavaScript, jQuery,Uikit Bootstrap y Material Design , con más de 8 años de experiencias que soportan mis conocimientos y habilidades.
-> Conocimiento Amplio con los Framework Joomla y Wordpress.
-> Programador Web - Conocimiento en PHP y Mysql, Framework Codeigniter 3x, C# y ASP.NET MVC.
+<p>
+   - Diseñador Web - Conocimiento en HTML5, CSS3, JavaScript, jQuery, Uikit, Bootstrap y Material Design, con más de 8 años de experiencias que soportan mis conocimientos y habilidades. 
+</p>
+<p>
+    Conocimiento Amplio con los Framework Joomla y Wordpress.
+</p>
+<p>
+    Programador Web - Conocimiento en PHP y Mysql, Framework Codeigniter 3x, C# y ASP.NET MVC.
+</p>
 
-> Soy trabajador y entusiasta, me siento cómodo trabajando en equipo,
-independientemente del tamaño del mismo. Me encanta analizar y resolver
-problemas usando la tecnología. Realmente me gusta trabajar con personas
-que me inspiran a ser mejor y dar lo mejor de mí. <br/>
-, MS SQL Server.
 
 - 🔭 Actualmente estoy trabajando en el ecosistema .NET
 - 🌱 Actualmente estoy aprendiendo arquitectura limpia y microservicios.
@@ -77,17 +78,6 @@ Habilidades profesionales
      <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg" alt="Html5" style="vertical-align:top; margin:4px;">
  </a>
  
-   <a href="https://www.w3schools.com/css/" target="_blank" title="Css3">
-     <img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-ar21.svg" alt="Css3" style="vertical-align:top; margin:4px;">
- </a>
- 
-    <a href="https://www.w3schools.com/css/" target="_blank" title="Css3">
-     <img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-ar21.svg" alt="Css3" style="vertical-align:top; margin:4px;">
- </a>
- 
- <a href="http://json.com/" target="_blank" title="Json">
-     <img src="https://www.vectorlogo.zone/logos/json/json-ar21.svg" alt="Json" style="vertical-align:top; margin:4px;">
- </a>
  
   <a href="http://json.com/" target="_blank" title="Json">
      <img src="https://www.vectorlogo.zone/logos/json/json-ar21.svg" alt="Json" style="vertical-align:top; margin:4px;">
