@@ -1,4 +1,4 @@
-### Hola, 👋 soy Eliazar De La Paz Núñez
+### Hola, 👋 Soy Eliazar De La Paz Núñez
 
 ## Desarrollador Frontend y Programador web.
 
