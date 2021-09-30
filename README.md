@@ -3,13 +3,13 @@
 ## Desarrollador Frontend y Programador web.
 
 <p align="center"> 
- <a href="https://twitter.com/kenllyacosta" alt="mukesh's twitter">
-   <img src="https://img.shields.io/badge/-@edelapaz-%231DA1F2?style=flat-square&logo=twitter&logoColor=ffffff" />
+ <a href="https://twitter.com/eliazardelapaz" alt="Eliazar Twitter">
+   <img src="https://img.shields.io/badge/@eliazardelapaz-%231DA1F2?style=flat-square&logo=twitter&logoColor=ffffff" />
  </a>
- <a href="https://github.com/edelapaz" alt="Eliazar's github">
+ <a href="https://github.com/edelapaz" alt="Eliazar Github">
    <img src="https://img.shields.io/badge/-@edelapaz-%23181717?style=flat-square&logo=github" />
  </a>
- <a href="https://www.linkedin.com/in/edelapaz" alt="Eliazar de la paz's linkedin">
+ <a href="https://www.linkedin.com/in/edelapaz" alt="Eliazar de la paz Linkedin">
    <img src="https://img.shields.io/badge/edelapaz-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/edelapaz" />
  </a> 
  <a>
@@ -21,7 +21,7 @@
 </p>
 > Diseñador Web - Conocimiento en HTML5, CSS3, JavaScript, jQuery,Uikit Bootstrap y Material Design , con más de 8 años de experiencias que soportan mis conocimientos y habilidades.
 > Conocimiento Amplio con los Framework Joomla y Wordpress.
-> Programador Web - Conocimiento en PHP y Mysql, Framework Codeigniter 3x, C#, ASP.NET MVC.
+> Programador Web - Conocimiento en PHP y Mysql, Framework Codeigniter 3x, C# y ASP.NET MVC.
 
 > Soy trabajador y entusiasta, me siento cómodo trabajando en equipo,
 independientemente del tamaño del mismo. Me encanta analizar y resolver
