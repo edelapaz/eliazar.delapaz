@@ -1,6 +1,6 @@
-### Hola, 👋 mi nombre es Eliazar De La Paz
+### Hola, 👋 soy Eliazar De La Paz Núñez
 
-## Desarrollador y Programador de Pagina web
+## Desarrollador Frontend y Programador web.
 
 <p align="center"> 
  <a href="https://twitter.com/kenllyacosta" alt="mukesh's twitter">
@@ -10,7 +10,7 @@
    <img src="https://img.shields.io/badge/-@edelapaz-%23181717?style=flat-square&logo=github" />
  </a>
  <a href="https://www.linkedin.com/in/edelapaz" alt="Eliazar de la paz's linkedin">
-   <img src="https://img.shields.io/badge/-edelapaz-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/edelapaz" />
+   <img src="https://img.shields.io/badge/edelapaz-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/edelapaz" />
  </a> 
  <a>
    <img src="https://komarev.com/ghpvc/?username=edelapaz" />
@@ -19,75 +19,105 @@
    <img src="https://visitor-badge-reloaded.herokuapp.com/badge?page_id=edelapaz&color=00df00" />
  </a>
 </p>
+> Diseñador Web - Conocimiento en HTML5, CSS3, JavaScript, jQuery,Uikit Bootstrap y Material Design , con más de 8 años de experiencias que soportan mis conocimientos y habilidades.
+> Conocimiento Amplio con los Framework Joomla y Wordpress.
+> Programador Web - Conocimiento en PHP y Mysql, Framework Codeigniter 3x, C#, ASP.NET MVC.
 
-> Software Architect with more than 6 years of experience developing software with .NET technologies and low code like Power Platform, certified by Microsoft. I have been using C#, JavaScript, jQuery, and Bootstrap to develop enterprise applications for companies. I have helped to migrate old systems and databases to newer ones. Experience developing REST APIs and enjoy the process to make them. I am a self-taught person with the ability and desire to learn and experiment with new technologies and challenges.
+> Soy trabajador y entusiasta, me siento cómodo trabajando en equipo,
+independientemente del tamaño del mismo. Me encanta analizar y resolver
+problemas usando la tecnología. Realmente me gusta trabajar con personas
+que me inspiran a ser mejor y dar lo mejor de mí. <br/>
+, MS SQL Server.
 
- <br/>
+- 🔭 Actualmente estoy trabajando en el ecosistema .NET
+- 🌱 Actualmente estoy aprendiendo arquitectura limpia y microservicios.
+- 👯 ¡Estoy buscando colaborar en * GitHub * o * sin conexión *!
+- 💬 Pregúntame acerca de .Net o cualquier otro material relacionado con la tecnología.
+- 📫 Como llegar a mi: [Twitter](https://twitter.com/edelapaz) | [Linkedin](https://www.linkedin.com/in/edelapaz)
+- ⚡ Dato curioso: jugar 🎮 juegos de PS4 en tiempo libre.🤣
 
-I've been working with ASP.NET MVC, .NET Core, Elmah, .NET 5, OAuth y OpenID Connect, DevOps, C#, MediatR, CQRS, SOLID, Fluent Validation, IoC, Clean Architecture,
-Bootstrap, jQuery, React, Angular, API’s, Entity Framework y EF Core, WPF, ESC/POS Commands, MS SQL Server.
+🤔*Trivialidades*
 
-- 🔭 I’m currently working on .NET Ecosystem
-- 🌱 I’m currently learning Clean architecture and Microservices
-- 👯 I’m looking to collaborate on *GitHub* or *offline*!
-- 💬 Ask me about .Net or anyother tech related stuff
-- 📫 How to reach me: [Twitter](https://twitter.com/edelapaz) | [Linkedin](https://www.linkedin.com/in/edelapaz)
-- 😄 Pronouns: He/His
-- ⚡ Fun fact: playing 🎮 PC games on free time and exercises 🤣
-
-🤔*Trivia*
-
-* 🦸 Endorse me / Leave a Recommendation on Linkedin [@kenllyacosta](https://www.linkedin.com/in/edelapaz)
-* 📫 Follow me on Twitter [@kenllyacosta](https://twitter.com/edelapaz)
-* 🧧 Suscribe on Youtube [@kenllyacosta](http://www.youtube.com/user/edelapaz?sub_confirmation=1)
-* 😄 Career Aim - Work Abroad, Probably in America/Europe with a global team for a cool Product!
+* 🦸 Apóyame / Deje una recomendación en Linkedin [@edelapaz](https://www.linkedin.com/in/edelapaz)
+* 📫 Sigueme en Twitter [@edelapaz](https://twitter.com/edelapaz)
+* 🧧 Suscríbete en Youtube[@edelapaz](https://www.youtube.com/channel/UCFfyMKA30W-GrtT_aA7DYSQ?sub_confirmation=1)
+* 😄 Objetivo profesional: trabajar en el extranjero, probablemente en América / Europa con un equipo global para un producto genial.
 
 ---
 
 <p align="center"> 
  <strong>
-  Professional skills
+Habilidades profesionales
   </strong>
 </p>
 
 <p align="center">
-  <a href="https://dotnet.microsoft.com/">
+ <a href="https://joomla.org/" target="_blank" title="Joomla">
+  <img src="https://www.vectorlogo.zone/logos/joomla/joomla-ar21.svg" height="60px" alt="Joomla" style="vertical-align:top; margin:4px;">
+ </a>
+ 
+ <a href="https://wordpress.org/" target="_blank" title="Wordpress">
+  <img src="https://www.vectorlogo.zone/logos/wordpress/wordpress-ar21.svg" height="60px" alt="Wordpress" style="vertical-align:top; margin:4px;">
+ </a>
+ 
+  <a href="https://php.net/" target="_blank" title="php">
+  <img src="https://www.vectorlogo.zone/logos/php/php-ar21.svg" height="60px" alt="php" style="vertical-align:top; margin:4px;">
+ </a>
+ 
+ <a href="https://phpmyadmin.net/" target="_blank" title="Phpmyadmin">
+  <img src="https://www.vectorlogo.zone/logos/phpmyadmin/phpmyadmin-ar21.svg" height="60px" alt="Phpmyadmin" style="vertical-align:top; margin:4px;">
+ </a>
+ 
+
+ <a href="https://jquery.com/" target="_blank" title="Jquery">
+  <img src="https://www.vectorlogo.zone/logos/jquery/jquery-ar21.svg" height="60px" alt="jquery" style="vertical-align:top; margin:4px;">
+ </a>
+ 
+  <a href="https://www.w3schools.com/html/" target="_blank" title="Html5">
+     <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg" alt="Html5" style="vertical-align:top; margin:4px;">
+ </a>
+ 
+   <a href="https://www.w3schools.com/css/" target="_blank" title="Css3">
+     <img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-ar21.svg" alt="Css3" style="vertical-align:top; margin:4px;">
+ </a>
+ 
+    <a href="https://www.w3schools.com/css/" target="_blank" title="Css3">
+     <img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-ar21.svg" alt="Css3" style="vertical-align:top; margin:4px;">
+ </a>
+ 
+ <a href="http://json.com/" target="_blank" title="Json">
+     <img src="https://www.vectorlogo.zone/logos/json/json-ar21.svg" alt="Json" style="vertical-align:top; margin:4px;">
+ </a>
+ 
+  <a href="http://json.com/" target="_blank" title="Json">
+     <img src="https://www.vectorlogo.zone/logos/json/json-ar21.svg" alt="Json" style="vertical-align:top; margin:4px;">
+ </a>
+ 
+ 
+  <a href="https://dotnet.microsoft.com/" target="_blank" title="microsoft">
     <img src="https://www.vectorlogo.zone/logos/dotnet/dotnet-ar21.svg" alt="dotnet" style="vertical-align:top; margin:4px;">
   </a>
-  <a href="https://dotnet.microsoft.com/">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/e/ee/.NET_Core_Logo.svg" height="60px" alt="dotnet" style="vertical-align:top; margin:4px;">
-  </a>
-  <a href="https://dotnet.microsoft.com/apps/aspnet/web-apps/blazor">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/d/d0/Blazor.png" alt="Blazor" height="60px" style="vertical-align:top; margin:4px">
-  </a>
-   <a href="">
-    <img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-ar21.svg" alt="typescript" style="vertical-align:top; margin:4px;">
-  </a> 
-  <a href="https://angular.io">
-    <img src="https://www.vectorlogo.zone/logos/angular/angular-ar21.svg" alt="angular" style="vertical-align:top; margin:4px;">
-  </a>  
- <a href="https://reactjs.org/">
-    <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg" alt="react" style="vertical-align:top; margin:4px;">
-  </a>
-  <a href="https://www.github.com">
+ 
+  <a href="https://www.github.com" target="_blank" title="github">
     <img src="https://www.vectorlogo.zone/logos/github/github-ar21.svg" alt="github" style="vertical-align:top; margin:4px">
   </a>
-  <a href="https://www.git.com">
+  
+  <a href="https://www.git.com" target="_blank" title="git">
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg" alt="git-scm" style="vertical-align:top; margin:4px">
   </a>
+
 </p>
 
 ---
 
 <div align="center">
-  <strong>Languages and Technologies</strong>
+  <strong>Idiomas y tecnologías</strong>
 </div>
 <br/>
 
 <p align="center"> 
 <img alt="csharp" width="60px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png" />
 <img alt="dotnet" width="60px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dotnet/dotnet.png" />
-<img alt="azure" width="120px" src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-ar21.svg" />
 <img alt="Angular" width="60px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png" />
 <img alt="HTML5" width="60px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img alt="CSS3" width="60px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
